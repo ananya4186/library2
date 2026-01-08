@@ -1,4 +1,4 @@
-from library_repo.library import library_details
+from library import library_details
 
 def test_library_details_output():
     expected = (
